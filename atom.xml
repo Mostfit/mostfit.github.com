@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Mostfit Nerdery]]></title>
+  <link href="http://Mostfit.github.com/atom.xml" rel="self"/>
+  <link href="http://Mostfit.github.com/"/>
+  <updated>2012-01-27T02:58:05+05:30</updated>
+  <id>http://Mostfit.github.com/</id>
+  <author>
+    <name><![CDATA[svs]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Initial Commit]]></title>
+    <link href="http://Mostfit.github.com/blog/2012/01/27/initial-commit/"/>
+    <updated>2012-01-27T02:45:00+05:30</updated>
+    <id>http://Mostfit.github.com/blog/2012/01/27/initial-commit</id>
+    <content type="html"><![CDATA[<p>Hello and welcome to the Mostfit Nerdery blog. Here we will talk about all the problems you&#8217;re likely to face while building the world&#8217;s most lovingly crafted MIS for Microfinance. We will also be discussing all the half-baked and hot new features we&#8217;re working on and also embarrassing oursleves spectacularly when we fail to deliver on time and under budget.</p>
+
+<p>Do stick us in your feed reader and check back often to see how we&#8217;re doing.</p>
+
+<p>cheers
+svs</p>
+]]></content>
+  </entry>
+  
+</feed>
